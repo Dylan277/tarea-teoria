@@ -2,7 +2,8 @@ const archivos = [
   'dato1.json',
   'dato2.json',
   'dato3.json',
-  'dato4.json'
+  'dato4.json',
+  'dato5.json'
 
 ];
 
