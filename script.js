@@ -3,8 +3,9 @@ const archivos = [
   'dato2.json',
   'dato3.json',
   'dato4.json',
-  'dato5.json'
-
+  'dato5.json',
+  'dato6.json'
+  
 ];
 
 const lista = document.getElementById('lista');
